@@ -1,0 +1,16 @@
+{
+  "name": "scrap_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^4.5.0",
+    "puppeteer-core": "^1.14.0",
+    "request": "^2.88.0"
+  }
+}
